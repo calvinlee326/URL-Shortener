@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+db.sqlite3  # If you're using SQLite and want to exclude the database file
