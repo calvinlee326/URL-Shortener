@@ -21,7 +21,7 @@ A simple Django-based URL shortener that allows users to shorten long URLs and r
 
 Ensure that you have the following installed on your local development machine:
 
-- Python 3.x
+- Python 3.12
 - Django
 - Git
 
